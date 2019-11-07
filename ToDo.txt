@@ -1,5 +1,8 @@
 - Dollars to Cents
 - Gallons to Liters
 - Hours to Minutes
+<<<<<<< HEAD
 - Feet to Inches
 - Degrees to Radians
+=======
+>>>>>>> parent of 3c1f54d... update conversions
